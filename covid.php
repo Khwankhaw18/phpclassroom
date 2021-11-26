@@ -3,13 +3,14 @@
   $data = json_decode($json);
 
   echo " <table border='1'>";
-        <?php
+        
+    foreach ( $data[0] as $key => $val )
+    {<?php
               for($i=0;$i<2;$i++){
                 echo "<tr>";
                 echo "<td>คอลัมน์<td>";
                 echo "<td>คอลัมน์<td>";
                 echo "</tr>";
-    foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }
 
