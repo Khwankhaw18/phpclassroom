@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(gigi.woff);
+        src: url(gigi%20.woff);
       }
       #font1{
         font-family: myFont;
