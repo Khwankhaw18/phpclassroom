@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url();
+        src: url(Weekend.woff);
       }
       @font-face{
         font-family: myFont2;
