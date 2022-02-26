@@ -63,12 +63,12 @@
        </div>
         <div class="col-9" id="content"> 
          <h4>
-           นครศรีธรรมราช
+           สุพรรรณบุรี
          </h4>
           <table widht="640" height="440" align="center">
           <tr>
            <td>
-             <img src="P1.png">
+             <img src="หน้าแรก1.jpg">
            </td> 
           </tr>
          </table>
