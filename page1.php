@@ -123,7 +123,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="page1.5.png
+             <img src="page1.5.png">
            </td> 
           </tr>
          </tbody></table><br>
