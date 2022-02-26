@@ -65,7 +65,7 @@
          <h4>
            สุพรรรณบุรี
          </h4>
-          <table widht="640" height="440" align="center">
+          <table widht="600" height="440" align="center">
           <tr>
            <td>
              <img src="หน้าแรก1.png">
