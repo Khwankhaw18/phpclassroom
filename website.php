@@ -11,23 +11,23 @@
     <style>
       #header{
         height: 120px;
-        background-color: #90EE90;
+        background-color: #80B7A2;
       }
       #sidebar{
         height: 0px;
-        background-color: #FFFAFA;
+        background-color: #ADD495;
         padding: 0px;
       }
       #content{
         height: 0px;
-        background-color: #FFF5EE;
+        background-color: #F6F5F0;
       }
       ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         width: 100%;
-        background-color: #FFFFFF;
+        background-color: #FFF8F8;
       }
       li a {
         display: block;
