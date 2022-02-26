@@ -11,16 +11,16 @@
     <style>
       #header{
         height: 120px;
-        background-color: #80B7A2;
+        background-color: #ADD495;
       }
       #sidebar{
         height: 0px;
-        background-color: #ADD495;
+        background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
         height: 0px;
-        background-color: #F6F5F0;
+        background-color: #D0F4DE;
       }
       ul {
         list-style-type: none;
