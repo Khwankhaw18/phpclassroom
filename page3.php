@@ -1,4 +1,6 @@
-<head>
+<!doctype html>
+<html lang="en">
+  <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,7 +46,7 @@
   <body> 
     <div class="container">
       <div class="row">
-        <div class="col-12" id="header">
+        <div class="col-12" id="header"align="center">
           <h1>จังหวัดสุพรรณบุรี</h1>
           <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suphan Buri</h3>
         </div>
@@ -52,11 +54,11 @@
       <div class="row">
         <div class="col-3" id="sidebar"> 
           <ul>
-            <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
-            <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/website.php">หน้าแรก</a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/page1.php">แหล่งท่องเที่ยว</a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page2.php">ประเพณีและวัฒนธรรม</a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page3.php">อาหารประจำท้องถิ่น</a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page4.php">ผู้จัดทำ</a></li>
          </ul>
        </div>
         <div class="col-9" id="content"> 
