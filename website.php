@@ -46,7 +46,7 @@
   <body> 
     <div class="container">
       <div class="row">
-        <div class="col-12" id="header">
+        <div class="col-12" id="header"align="center">
           <h1>จังหวัดสุพรรณบุรี</h1>
           <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suphan Buri</h3>
         </div>
