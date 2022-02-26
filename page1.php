@@ -56,9 +56,9 @@
           <ul>
             <li><a href="https://lsw-56411.herokuapp.com/website.php">หน้าแรก</a></li>
             <li><a href="https://lsw-56411.herokuapp.com/page1.php">แหล่งท่องเที่ยว</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/page2.php">ประเพณีและวัฒนธรรม</a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page3.php">อาหารประจำท้องถิ่น</a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page4.php">ผู้จัดทำ</a></li>
          </ul>
        </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
