@@ -26,7 +26,7 @@
         background-color: #D0F4DE;
       }
       #footer {
-        height: 120px;
+        width: 50%;
         padding: 50px;
         background-color: pink;
         border-radius: 0 0 15px 15px;
