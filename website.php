@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-12" id="header"align="center">
           <h1><B>จังหวัดสุพรรณบุรี</B></h1>
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suphan Buri</h3>
+          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></h3>
         </div>
       </div>
       <div class="row">
