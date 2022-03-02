@@ -54,7 +54,7 @@
       <div class="row">
         <div class="col-3" id="sidebar"> 
           <ul>
-            <li><a href="https://lsw-56411.herokuapp.com/website.php">หน้าแรก</a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/website.php"><B>หน้าแรก</B></a></li>
             <li><a href="https://lsw-56411.herokuapp.com/page1.php">แหล่งท่องเที่ยว</a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page2.php">ประเพณีและวัฒนธรรม</a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page3.php">อาหารประจำท้องถิ่น</a></li> 
