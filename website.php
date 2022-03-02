@@ -26,7 +26,8 @@
         background-color: #D0F4DE;
       }
       #footer {
-        padding: 120px;
+        height: 120px;
+        padding: 50px;
         background-color: pink;
         border-radius: 0 0 15px 15px;
       }
