@@ -83,14 +83,14 @@
           <B>อารหารประจำท้องถิ่น</B>
           </h5><br>
            <div class="sites-layout-tile sites-tile-name-content-1">
-<div dir="ltr"><p style="text-align:center">
+<div dir="ltr"><p style="text-align:center"><B>
 <span lang="TH">น้ำตาลสามชุก&nbsp;ปลาดุกบางปลาม้า&nbsp;&nbsp;</span></span></p><p style="text-align:center">
 <span lang="TH">ปลาร้าสองพี่น้อง&nbsp;
 อู่ทองเห็ดฟาง&nbsp;&nbsp;</span></span></p><p style="text-align:center">
 <span lang="TH">เดิมบางหน่อไม้&nbsp; แห้วหัวใหญ่ศรีประจันต์&nbsp;</span></span></p><p style="text-align:center">
-<span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span>”</span></p></div></div>
+<span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span>”</span></B></p></div></div>
           <h5>
-            1.ขนมจีนน้ำยาเส้นสด
+            <B>1.ขนมสาลี่สุพรรณ</B>
           </h5><br>
           <table widht="500" height="300" align="center">
           <tbody><tr>
@@ -100,7 +100,7 @@
           </tr>
          </tbody></table><br>
           <h5>
-            2.ข้าวยำ
+           <B>2.ปลาสลิดดอนกำยาน</B> 
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
@@ -109,9 +109,8 @@
            </td> 
           </tr>
          </tbody></table><br>
-         
           <h5>
-            3.แกงส้ม
+            <B>3.น้ำตาลสามชุก</B>
             </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
@@ -120,9 +119,8 @@
            </td> 
           </tr>
          </tbody></table><br>
-          
           <h5>
-            4.คั่วกลิ้ง
+            <B>4.ปลาม้า บางปลาม้า</B>
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
@@ -131,9 +129,8 @@
            </td> 
           </tr>
          </tbody></table><br>
-         
           <h5>
-            5.แกงไตปลา
+            <B>5.ปลาร้าสองพี่น้อง</B>
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
@@ -141,7 +138,26 @@
              <img src="P16.png">
            </td> 
           </tr>
-         </tbody></table><br>       
+         </tbody></table><br>
+          <h5>
+            <B>6.เห็ดฟางอู่ทอง</B>
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tbody><tr>
+           <td>
+             <img src="P16.png">
+           </td> 
+          </tr>
+         </tbody></table><br><h5>
+            <B>7.แห้วศรีประจันต์</B>
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tbody><tr>
+           <td>
+             <img src="P16.png">
+           </td> 
+          </tr>
+         </tbody></table><br>
         </div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
