@@ -70,11 +70,11 @@
       <div class="row">
         <div class="col-3" id="sidebar"> 
           <ul>
-            <li><a href="https://lsw-56411.herokuapp.com/website.php"><B>หน้าแรก</B></a></li>
-            <li><a href="https://lsw-56411.herokuapp.com/page1.php"><B>แหล่งท่องเที่ยว</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page2.php"><B>ประเพณีและวัฒนธรรม</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page3.php"><B>อาหารประจำท้องถิ่น</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page4.php"><B>ผู้จัดทำ</B></a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/page1.php"><div id="font1"><B>แหล่งท่องเที่ยว</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page2.php"><div id="font1"><B>ประเพณีและวัฒนธรรม</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
          </ul>
        </div>
         <div class="col-9" id="content"> 
