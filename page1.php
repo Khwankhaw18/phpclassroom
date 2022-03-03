@@ -78,6 +78,7 @@
          </ul>
        </div>
         <div class="col-9" id="content"> 
+        <div id="font2">
         <h5>
           <B>แหล่งท่องเที่ยวสุพรรณบุรี</B>
           </h5><br>
