@@ -40,8 +40,7 @@
         background-color: #555;
         color: #FFFFFF;
       }
-    </style>
-    
+    </style> 
   </head>
   <body> 
     <div class="container">
