@@ -69,6 +69,7 @@
       </div>
       <div class="row">
         <div class="col-3" id="sidebar"> 
+          <div id="font1">
           <ul>
             <li><a href="https://lsw-56411.herokuapp.com/website.php"><B>หน้าแรก</B></a></li>
             <li><a href="https://lsw-56411.herokuapp.com/page1.php"><B>แหล่งท่องเที่ยว</B></a></li> 
