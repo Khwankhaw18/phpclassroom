@@ -68,7 +68,6 @@
         </div>
       </div>
       <div class="row">
-        <div id="font1">
         <div class="col-3" id="sidebar"> 
           <ul>
             <li><a href="https://lsw-56411.herokuapp.com/website.php"><B>หน้าแรก</B></a></li>
