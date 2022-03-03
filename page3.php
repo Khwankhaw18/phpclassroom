@@ -78,6 +78,7 @@
          </ul>
        </div>
         <div class="col-9" id="content"> 
+        <div id="font2">
         <h5>
           อารหารประจำท้องถิ่น
           </h5><br>
