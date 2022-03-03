@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(FCBold.woff);
+        src: url(FC%20Bold.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(FCRegular.woff);
+        src: url(FC%20Regular.woff);
       }
       #font1{
         font-family: myFont;
