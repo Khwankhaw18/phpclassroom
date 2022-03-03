@@ -27,7 +27,7 @@
         margin: 0;
         padding: 0;
         width: 100%;
-        background-color: #FFF8F8;
+        background-color: #f1f1f1;
       }
       li a {
         display: block;
