@@ -78,6 +78,7 @@
          </ul>
        </div>
         <div class="col-9" id="content"> 
+        <div id="font2">
         <h5>
           ที่เที่ยวนครศรีธรรมราช
           </h5><br>
