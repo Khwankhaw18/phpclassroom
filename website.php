@@ -41,11 +41,28 @@
         color: #FFFFFF;
       }
     </style> 
+    <style>
+      @font-face{
+        font-family: myFont;
+        src: url(FC%20Bold.woff);
+      }
+      @font-face{
+        font-family: myFont2;
+        src: url(FC%20Regular.woff);
+      }
+      #font1{
+        font-family: myFont;
+      }
+      #font2{
+        font-family: myFont2;
+      }
+    </style>
   </head>
   <body> 
     <div class="container">
       <div class="row">
         <div class="col-12" id="header"align="center">
+          <div id="font1">
           <h1><B>จังหวัดสุพรรณบุรี</B></h1>
           <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></h3>
         </div>
