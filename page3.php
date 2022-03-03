@@ -83,11 +83,11 @@
           <B>อารหารประจำท้องถิ่น</B>
           </h5><br>
            <div class="sites-layout-tile sites-tile-name-content-1">
-<div dir="ltr"><p style="text-align:center;margin-bottom:1.2pt;margin-left:30pt;line-height:16.8pt">
-<span lang="TH">น้ำตาลสามชุก&nbsp;ปลาดุกบางปลาม้า&nbsp;&nbsp;</span></span></p><p style="text-align:center;margin-bottom:1.2pt;margin-left:30pt;line-height:16.8pt">
+<div dir="ltr"><p style="text-align:center">
+<span lang="TH">น้ำตาลสามชุก&nbsp;ปลาดุกบางปลาม้า&nbsp;&nbsp;</span></span></p><p style="text-align:center">
 <span lang="TH">ปลาร้าสองพี่น้อง&nbsp;
-อู่ทองเห็ดฟาง&nbsp;&nbsp;</span></span></p><p style="text-align:center;margin-bottom:1.2pt;margin-left:30pt;line-height:16.8pt">
-<span lang="TH">เดิมบางหน่อไม้&nbsp; แห้วหัวใหญ่ศรีประจันต์&nbsp;</span></span></p><p style="text-align:center;margin-bottom:1.2pt;margin-left:30pt;line-height:16.8pt">
+อู่ทองเห็ดฟาง&nbsp;&nbsp;</span></span></p><p style="text-align:center">
+<span lang="TH">เดิมบางหน่อไม้&nbsp; แห้วหัวใหญ่ศรีประจันต์&nbsp;</span></span></p><p style="text-align:center">
 <span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span>”</span></p></div></div>
           <h5>
             1.ขนมจีนน้ำยาเส้นสด
