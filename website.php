@@ -78,6 +78,7 @@
          </ul>
        </div>
         <div class="col-9" id="content"> 
+         <div id="font1">
          <h4>
            <B>สุพรรรณบุรี</B>
          </h4>
