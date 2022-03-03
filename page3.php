@@ -88,7 +88,7 @@
 <span lang="TH">ปลาร้าสองพี่น้อง&nbsp;
 อู่ทองเห็ดฟาง&nbsp;&nbsp;</span></span></p><p style="text-align:center">
 <span lang="TH">เดิมบางหน่อไม้&nbsp; แห้วหัวใหญ่ศรีประจันต์&nbsp;</span></span></p><p style="text-align:center">
-<span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span>”</span></B></p></div></div>
+<span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span></span></B></p></div></div>
           <h5>
             <B>1.ขนมสาลี่สุพรรณ</B>
           </h5><br>
