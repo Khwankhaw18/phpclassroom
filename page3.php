@@ -95,7 +95,7 @@
           <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P12.png">
+             <img src="page3.1.png">
            </td> 
           </tr>
          </tbody></table><br>
@@ -105,7 +105,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P13.png">
+             <img src="page3.2.png">
            </td> 
           </tr>
          </tbody></table><br>
@@ -115,7 +115,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P14.png">
+             <img src="page3.3.png">
            </td> 
           </tr>
          </tbody></table><br>
@@ -125,7 +125,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P15.png">
+             <img src="page3.4.png">
            </td> 
           </tr>
          </tbody></table><br>
@@ -135,7 +135,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P16.png">
+             <img src="page3.5.png">
            </td> 
           </tr>
          </tbody></table><br>
@@ -145,7 +145,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P16.png">
+             <img src="page3.6.png">
            </td> 
           </tr>
          </tbody></table><br><h5>
@@ -154,7 +154,7 @@
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="P16.png">
+             <img src="page3.7.png">
            </td> 
           </tr>
          </tbody></table><br>
