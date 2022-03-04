@@ -63,8 +63,6 @@
       p{
         margin-top: 10px;
       }
-    </style>
-    <style>
       @font-face{
         font-family: myFont;
         src: url(FC%20Bold.woff);
