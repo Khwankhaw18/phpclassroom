@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>Nakhon Si Thammarat Project</title>
+    <title>Suphan Buri Project</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -106,12 +106,12 @@
           <!-- คอนเท้นต์ -->
           <div id="font2">
           <h4>
-           สุพรรณบุรี
+           <B>สุพรรณบุรี</B>
          </h4>
-          <center><img src="P1.png" class="img-fluid rounded"></center>
+          <center><img src="หน้าแรก1.png" class="img-fluid rounded"></center>
           <br>
          <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดหนึ่งในภาคกลางของประเทศไทย ห่างจากกรุงเทพมหานคร 107 กิโลเมตร จังหวัดที่อยู่ติดกัน (จากทิศเหนือ วนตามเข็มนาฬิกา) ได้แก่ อุทัยธานี ชัยนาท สิงห์บุรี อ่างทอง พระนครศรีอยุธยา นครปฐม และกาญจนบุรี
             </h5>
            <br></br>
           <h4>
