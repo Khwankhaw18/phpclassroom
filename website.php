@@ -64,20 +64,6 @@
       p{
         margin-top: 10px;
       }
-      @font-face{
-        font-family: myFont;
-        src: url(FC%20Bold.woff);
-      }
-      @font-face{
-        font-family: myFont2;
-        src: url(FC%20Regular.woff);
-      }
-      #font1{
-        font-family: myFont;
-      }
-      #font2{
-        font-family: myFont2;
-      }
     </style>
   </head>
   <body style="background-color:#ffd3b2">
@@ -108,7 +94,6 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          <div id="font2">
           <h4>
             <br> <font size=5><B>สุพรรรณบุรี</B></font> </br> 
          </h4>
