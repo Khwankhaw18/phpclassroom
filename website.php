@@ -19,8 +19,8 @@
         padding: 0px;
       }
       #content{
-        height: 0px;
-        background-color: #D0F4DE;
+        height: 100%;
+        background-color: #f0f5f2;
       }
       ul {
         list-style-type: none;
