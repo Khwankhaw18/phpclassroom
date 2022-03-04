@@ -14,6 +14,7 @@
         background-color: #ADD495;
       }
       #sidebar{
+        height: 0px;
         background-color: #f1f1f1;
         padding: 0px;
       }
