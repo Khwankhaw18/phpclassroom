@@ -94,7 +94,7 @@
             </h5>
            <br></br>
           <h4>
-           <B>ที่ตั้งและอาณาเขต</B>
+           <font size=4><B>ที่ตั้งและอาณาเขต</B></font>
          </h4>
           <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี ตั้งอยู่ภาคกลางของประเทศไทย ห่างจากกรุงเทพฯ 110 กม. มีเนื้อที่ประมาณ 5,258.008 ตร.กม.หรือประมาณ 3,348,755 ไร่
@@ -109,7 +109,7 @@
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศตะวันตก ติดต่อกับ จังหวัดกาญจนบุรี จังหวัดอุทัยธานี
           </h5>
           <br></br>
-          <h5 align="center"><B>แผนที่จังหวัด</B></h5>
+          <h5 align="center"><font size=3><B>แผนที่จังหวัด</B></font></h5>
           
           <table widht="300" height="400" align="center">
           <tr>
@@ -120,7 +120,7 @@
          </table> 
         <br>
           <h6 align="center">
-            <B>การปกครองส่วนภูมิภาค</B>
+            <font size=3><B>การปกครองส่วนภูมิภาค</B></font>
           </h6>
           <table>
             <tbody>
@@ -164,7 +164,7 @@
       </table>
      <br></br>
           <h4>
-           <B>ประชากร</B>
+           <font size=4><B>ประชากร</B></font>
          </h4>
           <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
