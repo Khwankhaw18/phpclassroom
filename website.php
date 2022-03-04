@@ -86,11 +86,11 @@
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
           <ul>
-            <li><a href="index.php">หน้าแรก</a></li>
-            <li><a href="#">แหล่งท่องเที่ยว</a></li>
-            <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
-            <li><a href="#">อาหารประจำท้องถิ่น</a></li>
-            <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
+            <li><a href="https://lsw-56411.herokuapp.com/page1.php"><div id="font1"><B>แหล่งท่องเที่ยว</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page2.php"><div id="font1"><B>ประเพณีและวัฒนธรรม</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
+            <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
           </ul>
         </div>
         <div class="col-10" id="content">
