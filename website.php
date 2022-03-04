@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>Nakhon Si Thammarat Project</title>
+    <title>Suphan Buri Project</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -64,15 +64,35 @@
       p{
         margin-top: 10px;
       }
+      @font-face{
+        font-family: myFont;
+        src: url(FC%20Bold.woff);
+      }
+      @font-face{
+        font-family: myFont2;
+        src: url(FC%20Regular.woff);
+      }
+      #font1{
+        font-family: myFont;
+      }
+      #font2{
+        font-family: myFont2;
+      }
     </style>
   </head>
   <body style="background-color:#ffd3b2">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
-      <div id="container">
       <div class="row">
-        <div class="col-12" id="header">
-          <!-- เฮดเดอร์ -->
+        <div class="col-12" id="header"
+         <table widht="1300" height="120" align="left"> 
+          <div id="font1">
+            <tr>
+             <br>
+              <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
+              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+             </br>
+            </tr>
         </div>
       </div>
       <div class="row">
@@ -88,8 +108,9 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
+          <div id="font2">
           <h4>
-           นครศรีธรรมราช
+            <br> <font size=5><B>สุพรรรณบุรี</B></font> </br> 
          </h4>
           <center><img src="หน้าแรก1.png" class="img-fluid rounded"></center>
           <br>
