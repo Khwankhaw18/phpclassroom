@@ -81,67 +81,67 @@
         <div id="font2">
         <h5>ผู้จัดทำ</h5><br>
           <h5>
-            1.นายธีรพัฒน์ คำมา ม.5/13 เลขที่ 6
+            1.นายปกป้อง สงวนศิลป์ ม.5/13 เลขที่4
           </h5><br>
           <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="ธร.png">
+             <img src="page4.1.png">
            </td> 
           </tr>
          </tbody></table><br>
           
           <h5>
-            2.นายปิยโชติ จันทร์สุริยะ ม.5/13 เลขที่ 7
+            2.นางสาวขวัญข้าว เบ้าสกุล ม.5/13 เลขที่18
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="ปช.png">
+             <img src="page4.2.png">
            </td> 
           </tr>
          </tbody></table><br>
           
           <h5>
-            3.นายพีรณัฐ อุตราชา ม.5/13 เลขที่ 8
+            3.นางสาวชิษณุชา กระจ่างกิจใจชุ่ม ม.5/13 เลขที่19
             </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="พร.png">
+             <img src="page4.3.png">
            </td> 
           </tr>
          </tbody></table><br>
          
           <h5>
-            4.นายศุภโชค ขจรศักดา ม.5/13 เลขที่ 9
+            4.นางสาวธัญวรัตม์ รอดน้อย ม.5/13 เลขที่21
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="ชช.png">
+             <img src="page4.4.png">
            </td> 
           </tr>
          </tbody></table><br>
          
           <h5>
-            5.นายสารัช สารีคำ ม.5/13 เลขที่ 10
+            5.นางสาวเหมือนพิมพ์ ยวงคำ ม.5/13 เลขที่26
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="สร.png">
+             <img src="page4.5.png">
            </td> 
           </tr>
          </tbody></table><br>
           
            <h5>
-            6.นายชนาเดช กุลกรอม ม.5/13 เลขที่ 11
+            6.นางสาวญาณิศา อารีสุก ม.5/13 เลขที่29
           </h5><br>
               <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
-             <img src="ชน.png">
+             <img src="page4.6.png">
            </td> 
           </tr>
          </tbody></table><br>  
