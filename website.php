@@ -64,8 +64,8 @@
       <div class="row">
         <div class="col-12" id="header"align="center">
           <div id="font1">
-          <h1><font color=#9A9E8D size=30><B>จังหวัดสุพรรณบุรี</B></font></h1>
-          <h3><font color=#9A9E8D size=20><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+          <h1><font color=#F6F5F0 size=30><B>จังหวัดสุพรรณบุรี</B></font></h1>
+          <h3><font color=#F6F5F0 size=20><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
         </div>
       </div>
       <div class="row">
