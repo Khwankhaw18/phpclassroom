@@ -10,7 +10,7 @@
    
     <style>
       #header{
-        height: 160px;
+        height: 200px;
         background-image: url("suphan.png");
         background-size:100%;
       }
