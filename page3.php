@@ -122,6 +122,16 @@
           </h5><br>
                <center><img src="page3.5.png" class="img-fluid rounded"></center>
           <br>
+          <h5>
+            <B>6.เห็ดฟางอู่ทอง</B>
+          </h5><br>
+               <center><img src="page3.6.png" class="img-fluid rounded"></center>
+          <br>
+          <h5>
+            <B>7.แห้วศรีประจันต์</B>
+          </h5><br>
+               <center><img src="page3.7.png" class="img-fluid rounded"></center>
+          <br>
       </div>
      </div>  
      <div class="row">
