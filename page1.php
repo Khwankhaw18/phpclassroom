@@ -20,9 +20,8 @@
         padding: 0px;
       }
       #content{
-        height: 100%;
+        height: 0px;
         background-color: #D0F4DE;
-        background-size:100%;
       }
       ul {
         list-style-type: none;
