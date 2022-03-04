@@ -39,7 +39,7 @@
       }
       #footer {
         padding: 50px;
-        background-color: #AAAD4E0;
+        background-color: pink;
         border-radius: 0 0 15px 15px;
       }
       ul {
@@ -58,26 +58,10 @@
       /* Change the link color on hover */
       li a:hover {
         background-color: #555;
-        color: #FFFFFF;
+        color: white;
       }
       p{
         margin-top: 10px;
-      }
-    </style>
-        <style>
-      @font-face{
-        font-family: myFont;
-        src: url(FC%20Bold.woff);
-      }
-      @font-face{
-        font-family: myFont2;
-        src: url(FC%20Regular.woff);
-      }
-      #font1{
-        font-family: myFont;
-      }
-      #font2{
-        font-family: myFont2;
       }
     </style>
   </head>
@@ -87,15 +71,14 @@
       <div id="container">
       <div class="row">
         <div class="col-12" id="header">
-          <!-- เฮดเดอร์ -->         
-          <h1>Header</h1>
+          <!-- เฮดเดอร์ -->
           <table widht="1300" height="120" align="left"> 
           <div id="font1">
             <tr>
              <br>
               <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
-              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-              </br>
+              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+             </br>
             </tr>
         </div>
       </div>
@@ -103,114 +86,34 @@
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
           <ul>
-            <li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
-            <li><a href="https://lsw-56411.herokuapp.com/page1.php"><div id="font1"><B>แหล่งท่องเที่ยว</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page2.php"><div id="font1"><B>ประเพณีและวัฒนธรรม</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
-            <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
+            <li><a href="index.php">หน้าแรก</a></li>
+            <li><a href="#">แหล่งท่องเที่ยว</a></li>
+            <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
+            <li><a href="#">อาหารประจำท้องถิ่น</a></li>
+            <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <center>
             <h1>Content</h1>
-          <div id="font2">
-         <h4>
-           <br>
-           <font size=5><B>สุพรรรณบุรี</B></font>
-           </br>
-         </h4>
-          <table widht="640" height="440" align="center">
-          <tr>
-           <td>
-             <img src="หน้าแรก1.png">
-           </td> 
-          </tr>
-         </table>
-            <h5>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดหนึ่งในภาคกลางของประเทศไทย ห่างจากกรุงเทพมหานคร 107 กิโลเมตร จังหวัดที่อยู่ติดกัน (จากทิศเหนือ วนตามเข็มนาฬิกา) ได้แก่ อุทัยธานี ชัยนาท สิงห์บุรี อ่างทอง พระนครศรีอยุธยา นครปฐม และกาญจนบุรี
-            </h5>
-           <br></br>
-          <h4>
-           <font size=5><B>ที่ตั้งและอาณาเขต</B></font>
-         </h4>
-          <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี ตั้งอยู่ภาคกลางของประเทศไทย ห่างจากกรุงเทพฯ 110 กม. มีเนื้อที่ประมาณ 5,258.008 ตร.กม.หรือประมาณ 3,348,755 ไร่
-          </h5>
-          <h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศเหนือ ติดต่อกับ จังหวัดอุทัยธานี จังหวัดชัยนาท
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศใต้ ติดต่อกับ จังหวัดนครปฐมทิศตะวันออก ติดต่อกับ จังหวัดสิงห์บุรี จังหวัดอ่างทอง จังหวัดพระนครศรีอยุธยา
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศตะวันตก ติดต่อกับ จังหวัดกาญจนบุรี จังหวัดอุทัยธานี
-          </h5>
-          <br></br>
-          <h5 align="center"><font size=4.5><B>แผนที่จังหวัด</B></font></h5>
-           </center>
-           <table widht="300" height="400" align="center">
-          <tr>
-           <td>
-             <img src="หน้าแรก2.png">
-           </td> 
-          </tr>
-         </table> 
-        <br>
-          <h6 align="center">
-            <font size=4.5><B>การปกครองส่วนภูมิภาค</B></font>
-          </h6>
-          <table>
-            <tbody>
-              <tr valign ="top">
-          <td>
-            <ol>
-              <font size=4>
-              <li>
-                อำเภอเมืองสุพรรณบุรี
-                </li>
-              <li>
-                อำเภอเดิมบางนางบวช
-                </li>
-              <li>
-                อำเภอด่านช้าง
-              </li>
-              <li>
-                อำเภอบางปลาม้า
-                </li>
-              <li>    
-                อำเภอศรีประจันต์
-                </li>
-                <li>
-                อำเภอดอนเจดีย์
-                    </li>
-              <li>  
-                อำเภอสองพี่น้อง
-</li>
-              <li>         
-                อำเภอสามชุก          
-                  </li>
-              <li>       
-                อำเภออู่ทอง
-                  </li>
-              <li>  
-                อำเภอหนองหญ้าไซ         
-                  </li>
-                </font>
-            </ol>
-      </td>
-              </tr>
-            </tbody>
-      </table>
-     <br></br>
-          <h4>
-           <font size=5><B>ประชากร</B></font>
-         </h4>
-          <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
-          </h5>
-<div class="row">
-<div class="col-12" id="footer">
+          </center>
+          <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book. It has survived not
+            only five centuries, but also the leap into electronic typesetting,
+            remaining essentially unchanged. It was popularised in the 1960s
+            with the release of Letraset sheets containing Lorem Ipsum passages,
+            and more recently with desktop publishing software like Aldus
+            PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
           <center>
             <h3>ผลงานนักเรียน</h3>
@@ -219,8 +122,14 @@
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
         </div>
-    </div>  
+      </div>
+      </div>  
+    </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
