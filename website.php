@@ -166,7 +166,6 @@
             <font size=4> 
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
-            <br>
             </font>
           </center>
         </div>
