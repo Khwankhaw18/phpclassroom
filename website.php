@@ -176,8 +176,6 @@
           <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
           </h5>
-     <div class="container">
-        <div class="row">
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
           <center>
