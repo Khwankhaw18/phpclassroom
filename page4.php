@@ -10,8 +10,9 @@
    
     <style>
       #header{
-        height: 120px;
-        background-color: #ADD495;
+        height: 180px;
+        background-image: url("https://spbjc.coj.go.th/th/file/get/file/20201008d41d8cd98f00b204e9800998ecf8427e145656.png");
+        background-size:100%;
       }
       #sidebar{
         height: 0px;
@@ -61,10 +62,15 @@
   <body> 
     <div class="container">
       <div class="row">
-        <div class="col-12" id="header"align="center">
+        <div class="col-12" id="header"
+         <table widht="1300" height="120" align="left"> 
           <div id="font1">
-          <h1><font size=10><B>จังหวัดสุพรรณบุรี</B></font></h1>
-          <h3><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+            <tr>
+             <br>
+              <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
+              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+             </br>
+            </tr>
         </div>
       </div>
       <div class="row">
