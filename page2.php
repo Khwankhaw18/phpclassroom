@@ -83,6 +83,11 @@
             <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
          </ul>
        </div>
+        <div class="col-9" id="content"> 
+        <div id="font2">
+        <h5>
+          <font size=5><B>ประเพณีและวัฒนธรรม</B></font>
+          </h5><br>
           <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
