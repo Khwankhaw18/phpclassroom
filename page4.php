@@ -64,7 +64,7 @@
         <div class="col-12" id="header"align="center">
           <div id="font1">
           <h1><font size=10><B>จังหวัดสุพรรณบุรี</B></font></h1>
-          <h3><font size=7><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+          <h3><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
         </div>
       </div>
       <div class="row">
@@ -79,7 +79,7 @@
        </div>
         <div class="col-9" id="content"> 
         <div id="font2">
-        <h5><font size=6><B>ผู้จัดทำ</B></font></h5><br>
+        <h5><font size=5><B>ผู้จัดทำ</B></font></h5><br>
           <h5>
             1.นายปกป้อง สงวนศิลป์ ม.5/13 เลขที่4
           </h5><br>
