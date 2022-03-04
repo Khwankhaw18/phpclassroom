@@ -66,9 +66,15 @@
          <table widht="1300" height="120" align="left"> 
           <div id="font1">
             <tr>
-              <br<h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1></br>
+             <br>
+              <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
+             </br>
+            </tr>
+            <tr>
+             <br>
               <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
-             </tr>
+             </br>
+            </tr>
         </div>
       </div>
       <div class="row">
