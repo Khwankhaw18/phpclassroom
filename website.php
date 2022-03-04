@@ -68,10 +68,8 @@
             <tr>
              <br>
               <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
-             </br>
-            </tr>
-            <tr>
               <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+             </br>
             </tr>
         </div>
       </div>
