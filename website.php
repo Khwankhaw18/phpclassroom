@@ -40,7 +40,7 @@
       #footer {
         height: 180px;
         padding: 50px;
-        background-color: #E3EBFD;
+        background-color: #C0E4F6;
         border-radius: 0 0 15px 15px;
       }
       ul {
@@ -66,7 +66,7 @@
       }
     </style>
   </head>
-  <body style="background-color:#E1FEFE">
+  <body style="background-color:#E3EBFD">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
