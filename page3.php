@@ -91,12 +91,6 @@
           <h4>
             <font size=5><B>อารหารประจำท้องถิ่น</B></font>
          </h4><br>
-          div class="sites-layout-tile sites-tile-name-content-1">
-<div dir="ltr"><p style="text-align:center"><font size=4><B>
-<span lang="TH">น้ำตาลสามชุก&nbsp;ปลาดุกบางปลาม้า&nbsp;&nbsp;</span></span></p><p style="text-align:center">
-<span lang="TH">ปลาร้าสองพี่น้อง&nbsp;อู่ทองเห็ดฟาง&nbsp;&nbsp;</span></span></p><p style="text-align:center">
-<span lang="TH">เดิมบางหน่อไม้&nbsp; แห้วหัวใหญ่ศรีประจันต์&nbsp;</span></span></p><p style="text-align:center">
-<span lang="TH">แตงโมหวานมันดอนเจดีย์&nbsp; กะหล่ำปลีด่านช้าง</span></span></B></font></p></div></div>
           <h5>
             <B>1.ขนมสาลี่สุพรรณ</B>
           </h5><br>
