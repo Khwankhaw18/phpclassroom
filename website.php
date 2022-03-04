@@ -11,7 +11,7 @@
     <style>
       #header{
         height: 120px;
-        background-image: url("E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.png");
+        background-image: url("suphan.png");
         background-size:100%;
       }
       #sidebar{
