@@ -11,15 +11,16 @@
     <style>
       #header{
         height: 120px;
+        background-image: url("header.jpg");
+        background-size:100%;
         background-color: #ADD495;
       }
       #sidebar{
-        height: 0px;
         background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
-        height: 0px;
+        padding: 10px;
         background-color: #D0F4DE;
       }
       #footer {
@@ -81,7 +82,7 @@
             <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
          </ul>
-        </div>
+       </div>
         <div class="col-9" id="content"> 
          <div id="font2">
          <h4>
@@ -176,14 +177,18 @@
           <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
           </h5>
-     <div class="row">
-         <div class="col-12" id="footer">
+        <div class="col-12" id="footer">
+          <!-- ฟุตเตอร์ -->
           <center>
             <h3>ผลงานนักเรียน</h3>
             <hr />
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
+        </div>
+      </div>
+      </div>  
+    </div>
     </div>  
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
