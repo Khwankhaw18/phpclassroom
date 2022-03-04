@@ -69,16 +69,10 @@
   <body style="background-color:#ffd3b2">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
+      <div id="container">
       <div class="row">
-        <div class="col-12" id="header"
-         <table widht="1300" height="120" align="left"> 
-          <div id="font1">
-            <tr>
-             <br>
-              <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
-              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
-             </br>
-            </tr>
+        <div class="col-12" id="header">
+          <!-- เฮดเดอร์ -->
         </div>
       </div>
       <div class="row">
