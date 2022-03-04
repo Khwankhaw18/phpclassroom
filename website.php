@@ -10,9 +10,8 @@
    
     <style>
       #header{
-        height: 200px;
-        background-image: url("suphan.png");
-        background-size:100%;
+        height: 120px;
+        background-color: #ADD495;
       }
       #sidebar{
         height: 0px;
@@ -64,8 +63,8 @@
       <div class="row">
         <div class="col-12" id="header"align="center">
           <div id="font1">
-          <h1><font color=#FFF8F8 size=30><B>จังหวัดสุพรรณบุรี</B></font></h1>
-          <h3><font color=#FFF8F8 size=20><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
+          <h1><font size=10><B>จังหวัดสุพรรณบุรี</B></font></h1>
+          <h3><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
         </div>
       </div>
       <div class="row">
