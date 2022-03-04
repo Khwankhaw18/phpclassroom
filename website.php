@@ -20,7 +20,7 @@
       }
       #content{
         height: 100%;
-        background-color: #f0f5f2;
+        background-color: #F6F5F0;
       }
       ul {
         list-style-type: none;
