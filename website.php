@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>Suphan Buri Project</title>
+    <title>Nakhon Si Thammarat Project</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -25,8 +25,8 @@
         box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
       #header {
-        height: 180px;
-        background-image: url("https://spbjc.coj.go.th/th/file/get/file/20201008d41d8cd98f00b204e9800998ecf8427e145656.png");
+        height: 160px;
+        background-image: url("P18.png");
         background-size:100%;
       }
       #sidebar {
@@ -35,11 +35,12 @@
       }
       #content {
         padding: 10px;
-        background-color: white;
+        background-color: #F5F5F5;
       }
       #footer {
+        height: 180px;
         padding: 50px;
-        background-color: pink;
+        background-color: #DCDCDC;
         border-radius: 0 0 15px 15px;
       }
       ul {
@@ -58,138 +59,164 @@
       /* Change the link color on hover */
       li a:hover {
         background-color: #555;
-        color: white;
+        color:#FFFFFF;
       }
       p{
         margin-top: 10px;
       }
     </style>
   </head>
-  <body>
+  <body style="background-color:#ffd3b2">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
-          <table widht="1300" height="120" align="left"> 
-          <div id="font1">
-            <tr>
-             <br>
-              <h1><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>จังหวัดสุพรรณบุรี</B></font></h1>
-              <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
-             </br>
-            </tr>
         </div>
       </div>
       <div class="row">
         <div class="col-2" id="sidebar">
           <!-- ไซด์บาร์ -->
           <ul>
-            <li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
+            li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
             <li><a href="https://lsw-56411.herokuapp.com/page1.php"><div id="font1"><B>แหล่งท่องเที่ยว</B></a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page2.php"><div id="font1"><B>ประเพณีและวัฒนธรรม</B></a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
-          </ul>
+         </ul>
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          <div id="font2">
-         <h4>
-           <br>
-           <font size=5><B>สุพรรรณบุรี</B></font>
-           </br>
+          <h4>
+           นครศรีธรรมราช
          </h4>
-          <table widht="640" height="440" align="center">
-          <tr>
-           <td>
-             <img src="หน้าแรก1.png">
-           </td> 
-          </tr>
-         </table>
-            <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดหนึ่งในภาคกลางของประเทศไทย ห่างจากกรุงเทพมหานคร 107 กิโลเมตร จังหวัดที่อยู่ติดกัน (จากทิศเหนือ วนตามเข็มนาฬิกา) ได้แก่ อุทัยธานี ชัยนาท สิงห์บุรี อ่างทอง พระนครศรีอยุธยา นครปฐม และกาญจนบุรี
+          <center><img src="P1.png" class="img-fluid rounded"></center>
+          <br>
+         <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
             </h5>
            <br></br>
           <h4>
-           <font size=5><B>ที่ตั้งและอาณาเขต</B></font>
+           ที่ตั้งและอาณาเขต
          </h4>
           <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี ตั้งอยู่ภาคกลางของประเทศไทย ห่างจากกรุงเทพฯ 110 กม. มีเนื้อที่ประมาณ 5,258.008 ตร.กม.หรือประมาณ3,348,755 ไร่
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จังหวัดนครศรีธรรมราชตั้งอยู่ฝั่งตะวันออกของภาคใต้ โดยมีพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ โดยมีจังหวัดที่มีอาณาเขตติดกัน ดังนี้
           </h5>
           <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศเหนือ ติดต่อกับ จังหวัดอุทัยธานี จังหวัดชัยนาท
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านเหนือ ติดกับจังหวัดสุราษฎร์ธานี และอ่าวไทย
           </h5>
           <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศใต้ ติดต่อกับ จังหวัดนครปฐมทิศตะวันออก ติดต่อกับ จังหวัดสิงห์บุรี จังหวัดอ่างทอง จังหวัดพระนครศรีอยุธยา
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านใต้ ติดกับจังหวัดตรัง จังหวัดพัทลุง และจังหวัดสงขลา
           </h5>
           <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศตะวันตก ติดต่อกับ จังหวัดกาญจนบุรี จังหวัดอุทัยธานี
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันออก ติดกับอ่าวไทย
           </h5>
-          <br></br>
-          <h5 align="center"><font size=4.5><B>แผนที่จังหวัด</B></font></h5>
-          
-          <table widht="300" height="400" align="center">
-          <tr>
-           <td>
-             <img src="หน้าแรก2.png">
-           </td> 
-          </tr>
-         </table> 
-        <br>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันตก ติดกับจังหวัดสุราษฎร์ธานี และจังหวัดกระบี่
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;พื้นที่ที่ติดกับทะเลฝั่งอ่าวไทยของจังหวัดนครศรีธรรมราชนั้นมีชายฝั่งยาวประมาณ 225 กิโลเมตร และจังหวัดนครศรีธรรมราชมีเขาสูงที่สุดในภาคใต้ คือ เขาหลวง มีความสูงประมาณ 1,835 เมตร
+          </h5>
+          <br>
+          <h5 align="center">แผนที่จังหวัด</h5>
+          <br><br>
+         <center><img src="map.phg" class="img-fluid rounded"></center>
+        <br><br>
           <h6 align="center">
-            <font size=4.5><B>การปกครองส่วนภูมิภาค</B></font>
+            การปกครองส่วนภูมิภาค
           </h6>
-          <table>
+          <table align="center">
             <tbody>
               <tr valign ="top">
           <td>
             <ol>
-              <font size=4>
               <li>
-                อำเภอเมืองสุพรรณบุรี
+                อำเภอเมืองนครศรีธรรมราช
                 </li>
               <li>
-                อำเภอเดิมบางนางบวช
+                อำเภอพรหมคีรี
                 </li>
               <li>
-                อำเภอด่านช้าง
+                อำเภอลานสกา
               </li>
               <li>
-                อำเภอบางปลาม้า
+                อำเภอฉวาง
                 </li>
               <li>    
-                อำเภอศรีประจันต์
+                อำเภอพิปูน
                 </li>
                 <li>
-                อำเภอดอนเจด
-                อำเภอดอนเจดีย์
+                อำเภอเชียรใหญ่
                     </li>
               <li>  
-                อำเภอสองพี่น้อง
+                อำเภอชะอวด
                   </li>
               <li>         
-                อำเภอสามชุก          
+                อำเภอท่าศาลา          
                   </li>
               <li>       
-                อำเภออู่ทอง
+                อำเภอทุ่งสง         
                   </li>
               <li>  
-                อำเภอหนองหญ้าไซ         
+                อำเภอนาบอน         
                   </li>
-                </font>
+              <li>             
+                อำเภอทุ่งใหญ่
+           
+                  </li>
+              <li>     
+                อำเภอปากพนัง
+                  </li>
             </ol>
-            </td>
+      </td>
+      <td>
+            <ol start="13">
+                   <li>      
+                อำเภอร่อนพิบูลย์          
+                </li>
+              <li>         
+                อำเภอสิชล       
+                </li>
+              <li>
+                อำเภอขนอม
+              </li>
+              <li>
+                อำเภอหัวไทร   
+                </li>
+              <li>    
+                อำเภอบางขัน         
+                </li>
+                <li>
+                อำเภอถ้ำพรรณรา       
+                    </li>
+              <li>           
+                อำเภอจุฬาภรณ์     
+                  </li>
+              <li>  
+                 อำเภอพระพรหม    
+                  </li>
+              <li>  
+                อำเภอนบพิตำ
+                  </li>
+              <li>
+                อำเภอช้างกลาง    
+                  </li>
+              <li>                
+                อำเภอเฉลิมพระเกียรติ
+                  </li>
+            </ol>
+      </td>
               </tr>
             </tbody>
       </table>
-        <br></br>
-          <h4>
-           <font size=5><B>ประชากร</B></font>
-         </h4>
+           <br>
           <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
+            ประชากร
+          </h5>
+          <br>
+          <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ประชากร นครศรีธรรมราช มีประมาณ 1.56 ล้าน มีรายได้เฉลี่ยต่อคนต่อปี 45,598 บาท
           </h5>
         </div>
       </div>
@@ -202,7 +229,7 @@
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
-        </div> 
+        </div>
     </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script
