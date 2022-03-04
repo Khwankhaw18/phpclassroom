@@ -161,7 +161,7 @@
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
           <center>
-            <h3><font size=4><B>ผลงานนักเรียน</B></font></h3>
+            <h3><font size=4.5><B>ผลงานนักเรียน</B></font></h3>
             <hr />
             <font size=3> 
             <p>รายวิชา WebApplication</p>
