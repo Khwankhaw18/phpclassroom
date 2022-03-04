@@ -161,12 +161,10 @@
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
           <center>
-            <h3><font size=4.5><B>ผลงานนักเรียน</B></font></h3>
+            <h3><B>ผลงานนักเรียน</B></h3>
             <hr />
-            <font size=3> 
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
-            </font>
           </center>
         </div>
        </div>
