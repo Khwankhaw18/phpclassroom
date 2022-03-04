@@ -11,7 +11,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-    <title>Suphan Buri Project</title>
+    <title>Nakhon Si Thammarat Project</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Sarabun"
@@ -38,6 +38,7 @@
         background-color: #F5F5F5;
       }
       #footer {
+        height: 180px;
         padding: 50px;
         background-color: #DCDCDC;
         border-radius: 0 0 15px 15px;
@@ -63,20 +64,6 @@
       p{
         margin-top: 10px;
       }
-      @font-face{
-        font-family: myFont;
-        src: url(FC%20Bold.woff);
-      }
-      @font-face{
-        font-family: myFont2;
-        src: url(FC%20Regular.woff);
-      }
-      #font1{
-        font-family: myFont;
-      }
-      #font2{
-        font-family: myFont2;
-      }
     </style>
   </head>
   <body style="background-color:#ffd3b2">
@@ -101,14 +88,13 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          <div id="font2">
           <h4>
-           <B>สุพรรณบุรี</B>
+           นครศรีธรรมราช
          </h4>
           <center><img src="หน้าแรก1.png" class="img-fluid rounded"></center>
           <br>
          <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดหนึ่งในภาคกลางของประเทศไทย ห่างจากกรุงเทพมหานคร 107 กิโลเมตร จังหวัดที่อยู่ติดกัน (จากทิศเหนือ วนตามเข็มนาฬิกา) ได้แก่ อุทัยธานี ชัยนาท สิงห์บุรี อ่างทอง พระนครศรีอยุธยา นครปฐม และกาญจนบุรี
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
             </h5>
            <br></br>
           <h4>
@@ -135,7 +121,7 @@
           <br>
           <h5 align="center">แผนที่จังหวัด</h5>
           <br><br>
-         <center><img src="map.phg" class="img-fluid rounded"></center>
+         <center><img src="map.png" class="img-fluid rounded"></center>
         <br><br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
@@ -244,9 +230,9 @@
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
         </div>
-      </div>
-     </div>  
-   </div>
+       </div>
+     </div>
+   </div>   
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
