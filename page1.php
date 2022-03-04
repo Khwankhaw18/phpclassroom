@@ -22,6 +22,7 @@
       #content{
         height: 100px;
         background-color: #B3DBD8;
+        width: 100px;
       }
       ul {
         list-style-type: none;
