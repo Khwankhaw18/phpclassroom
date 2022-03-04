@@ -65,8 +65,6 @@
         margin-top: 10px;
       }
     </style>
-     }
-    </style> 
     <style>
       @font-face{
         font-family: myFont;
