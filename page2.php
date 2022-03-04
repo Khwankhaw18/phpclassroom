@@ -88,6 +88,9 @@
         <h5>
           <font size=5><B>ประเพณีและวัฒนธรรม</B></font>
           </h5><br>
+          <h5>
+            <B>2.ประเพณีทิ้งกระจาดสุพรรณบุรี</B>
+          </h5><br>
           <table widht="500" height="300" align="center">
           <tbody><tr>
            <td>
