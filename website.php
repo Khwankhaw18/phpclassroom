@@ -65,6 +65,24 @@
         margin-top: 10px;
       }
     </style>
+     }
+    </style> 
+    <style>
+      @font-face{
+        font-family: myFont;
+        src: url(FC%20Bold.woff);
+      }
+      @font-face{
+        font-family: myFont2;
+        src: url(FC%20Regular.woff);
+      }
+      #font1{
+        font-family: myFont;
+      }
+      #font2{
+        font-family: myFont2;
+      }
+    </style>
   </head>
   <body style="background-color:#ffd3b2">
     <!-- คอนเทนเนอร์ -->
@@ -88,8 +106,9 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
+          <div id="font2">
           <h4>
-           นครศรีธรรมราช
+           สุพรรณบุรี
          </h4>
           <center><img src="P1.png" class="img-fluid rounded"></center>
           <br>
