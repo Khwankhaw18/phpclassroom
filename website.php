@@ -35,7 +35,7 @@
       }
       #content{
         height: 10px;
-        background-color: #D0F4DE;
+        background-color: #ffffff;
       }
       #footer {
         height: 180px;
