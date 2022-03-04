@@ -127,7 +127,7 @@
               <tr valign ="top">
           <td>
             <ol>
-              <font size=3>
+              <font size=4>
               <li>
                 อำเภอเมืองสุพรรณบุรี
                 </li>
