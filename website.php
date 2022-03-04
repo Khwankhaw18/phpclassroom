@@ -26,6 +26,15 @@
         padding: 50px;
         background-color: pink;
         border-radius: 0 0 15px 15px;
+        <div class="col-12" id="footer">
+          <!-- ฟุตเตอร์ -->
+          <center>
+            <h3>ผลงานนักเรียน</h3>
+            <hr />
+            <p>รายวิชา WebApplication</p>
+            <p>โรงเรียนหล่มสักวิทยาคม</p>
+          </center>
+        </div>
       }
       ul {
         list-style-type: none;
@@ -176,18 +185,6 @@
           <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
           </h5>
-        <div class="col-12" id="footer">
-          <!-- ฟุตเตอร์ -->
-          <center>
-            <h3>ผลงานนักเรียน</h3>
-            <hr />
-            <p>รายวิชา WebApplication</p>
-            <p>โรงเรียนหล่มสักวิทยาคม</p>
-          </center>
-        </div>
-      </div>
-      </div>  
-    </div>
     </div>  
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
