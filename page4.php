@@ -85,7 +85,7 @@
        </div>
         <div class="col-9" id="content"> 
         <div id="font2">
-        <h5><font size=5><B>ผู้จัดทำ</B></font></h5><br>
+        <h5><br><font size=5><B>ผู้จัดทำ</B></font></h5><br>
           <h5>
             <B>1.นายปกป้อง สงวนศิลป์ ม.5/13 เลขที่4</B>
           </h5><br>
