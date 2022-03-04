@@ -71,9 +71,7 @@
              </br>
             </tr>
             <tr>
-             <br>
               <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
-             </br>
             </tr>
         </div>
       </div>
