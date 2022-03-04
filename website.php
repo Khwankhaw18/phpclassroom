@@ -26,15 +26,6 @@
         padding: 50px;
         background-color: pink;
         border-radius: 0 0 15px 15px;
-        <div class="col-12" id="footer">
-          <!-- ฟุตเตอร์ -->
-          <center>
-            <h3>ผลงานนักเรียน</h3>
-            <hr />
-            <p>รายวิชา WebApplication</p>
-            <p>โรงเรียนหล่มสักวิทยาคม</p>
-          </center>
-        </div>
       }
       ul {
         list-style-type: none;
@@ -90,7 +81,15 @@
             <li><a href="https://lsw-56411.herokuapp.com/page3.php"><div id="font1"><B>อาหารประจำท้องถิ่น</B></a></li> 
             <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
          </ul>
-       </div>
+         <div class="row">
+         <div class="col-12" id="footer">
+          <center>
+            <h3>ผลงานนักเรียน</h3>
+            <hr />
+            <p>รายวิชา WebApplication</p>
+            <p>โรงเรียนหล่มสักวิทยาคม</p>
+          </center>
+        </div>
         <div class="col-9" id="content"> 
          <div id="font2">
          <h4>
