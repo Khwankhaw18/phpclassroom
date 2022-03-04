@@ -247,8 +247,8 @@
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
         </div>
-       </div>
       </div>
+      </div>  
     </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script>
