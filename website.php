@@ -95,21 +95,103 @@
         </div>
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
-          <center>
-            <h1>Content</h1>
-          </center>
-          <center><img src="example_pix.jpg" class="img-fluid rounded"></center>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
-          </p>
+         <div id="font2">
+         <h4>
+           <br>
+           <font size=5><B>สุพรรรณบุรี</B></font>
+           </br>
+         </h4>
+          <table widht="640" height="440" align="center">
+          <tr>
+           <td>
+             <img src="หน้าแรก1.png">
+           </td> 
+          </tr>
+         </table>
+            <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดหนึ่งในภาคกลางของประเทศไทย ห่างจากกรุงเทพมหานคร 107 กิโลเมตร จังหวัดที่อยู่ติดกัน (จากทิศเหนือ วนตามเข็มนาฬิกา) ได้แก่ อุทัยธานี ชัยนาท สิงห์บุรี อ่างทอง พระนครศรีอยุธยา นครปฐม และกาญจนบุรี
+            </h5>
+           <br></br>
+          <h4>
+           <font size=5><B>ที่ตั้งและอาณาเขต</B></font>
+         </h4>
+          <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี ตั้งอยู่ภาคกลางของประเทศไทย ห่างจากกรุงเทพฯ 110 กม. มีเนื้อที่ประมาณ 5,258.008 ตร.กม.หรือประมาณ 3,348,755 ไร่
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศเหนือ ติดต่อกับ จังหวัดอุทัยธานี จังหวัดชัยนาท
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศใต้ ติดต่อกับ จังหวัดนครปฐมทิศตะวันออก ติดต่อกับ จังหวัดสิงห์บุรี จังหวัดอ่างทอง จังหวัดพระนครศรีอยุธยา
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทิศตะวันตก ติดต่อกับ จังหวัดกาญจนบุรี จังหวัดอุทัยธานี
+          </h5>
+          <br></br>
+          <h5 align="center"><font size=4.5><B>แผนที่จังหวัด</B></font></h5>
+          
+          <table widht="300" height="400" align="center">
+          <tr>
+           <td>
+             <img src="หน้าแรก2.png">
+           </td> 
+          </tr>
+         </table> 
+        <br>
+          <h6 align="center">
+            <font size=4.5><B>การปกครองส่วนภูมิภาค</B></font>
+          </h6>
+          <table>
+            <tbody>
+              <tr valign ="top">
+          <td>
+            <ol>
+              <font size=4>
+              <li>
+                อำเภอเมืองสุพรรณบุรี
+                </li>
+              <li>
+                อำเภอเดิมบางนางบวช
+                </li>
+              <li>
+                อำเภอด่านช้าง
+              </li>
+              <li>
+                อำเภอบางปลาม้า
+                </li>
+              <li>    
+                อำเภอศรีประจันต์
+                </li>
+                <li>
+                อำเภอดอนเจด
+                อำเภอดอนเจดีย์
+                    </li>
+              <li>  
+                อำเภอสองพี่น้อง
+                  </li>
+              <li>         
+                อำเภอสามชุก          
+                  </li>
+              <li>       
+                อำเภออู่ทอง
+                  </li>
+              <li>  
+                อำเภอหนองหญ้าไซ         
+                  </li>
+                </font>
+            </ol>
+      </td>
+              </tr>
+            </tbody>
+      </table>
+        <br></br>
+          <h4>
+           <font size=5><B>ประชากร</B></font>
+         </h4>
+          <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; จังหวัดสุพรรณบุรี มีประชากรรวมทั้งสิ้น 863,347 คน รายได้ประชากร 49,542 บาท/ปี/คน
+          </h5>
+
         </div>
       </div>
       <div class="row">
