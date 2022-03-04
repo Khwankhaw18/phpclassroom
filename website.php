@@ -19,7 +19,7 @@
     <style>
       body {
         font-family: "Sarabun";
-        background-color: #E1FEFE;
+        background-color: #fdf2e7;
       }
       #container {
         box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -66,7 +66,7 @@
       }
     </style>
   </head>
-  <body style="background-color:#ffd3b2">
+  <body style="background-color:#E1FEFE">
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
