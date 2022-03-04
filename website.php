@@ -26,7 +26,7 @@
       }
       #header {
         height: 160px;
-        background-image: url("20201008d41d8cd98f00b204e9800998ecf8427e145656.png");
+        background-image: url("https://spbjc.coj.go.th/th/file/get/file/20201008d41d8cd98f00b204e9800998ecf8427e145656.png");
         background-size:100%;
       }
       #sidebar {
