@@ -19,7 +19,7 @@
     <style>
       body {
         font-family: "Sarabun";
-        background-color: #fdf2e7;
+        background-color: #E1FEFE;
       }
       #container {
         box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -40,7 +40,7 @@
       #footer {
         height: 180px;
         padding: 50px;
-        background-color: #DCDCDC;
+        background-color: #E3EBFD;
         border-radius: 0 0 15px 15px;
       }
       ul {
@@ -161,10 +161,12 @@
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
           <center>
-            <h3>ผลงานนักเรียน</h3>
+            <h3><font size=5><B>ผลงานนักเรียน</B></font></h3>
             <hr />
+            <font size=4> 
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
+            </font>
           </center>
         </div>
        </div>
