@@ -63,8 +63,8 @@
       <div class="row">
         <div class="col-12" id="header"align="center">
           <div id="font1">
-          <h1><B>จังหวัดสุพรรณบุรี</B></h1>
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></h3>
+          <h1><font size=10><B>จังหวัดสุพรรณบุรี</B></font></h1>
+          <h3><font size=6><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
         </div>
       </div>
       <div class="row">
@@ -80,7 +80,7 @@
         <div class="col-9" id="content"> 
         <div id="font2">
         <h5>
-          <B>อารหารประจำท้องถิ่น</B>
+          <font size=5><B>อารหารประจำท้องถิ่น</B></font>
           </h5><br>
            <div class="sites-layout-tile sites-tile-name-content-1">
 <div dir="ltr"><p style="text-align:center"><B>
