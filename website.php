@@ -65,7 +65,7 @@
         <div class="col-12" id="header"
          <table widht="1300" height="120" align="left"> 
           <div id="font1">
-            <tr><p><h1><font size=6><B>จังหวัดสุพรรณบุรี</B></font></h1></p></tr>
+            <tr><br><h1><font size=6><B>จังหวัดสุพรรณบุรี</B></font></h1></br></tr>
           <h3><font size=5><B></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Suphan Buri</B></font></h3>
         </div>
       </div>
