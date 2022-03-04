@@ -20,8 +20,8 @@
         padding: 0px;
       }
       #content{
-        height: 0px;
-        background-color: #D0F4DE;
+        height: 100;
+        background-color: #B3DBD8;
       }
       ul {
         list-style-type: none;
@@ -85,9 +85,10 @@
        </div>
         <div class="col-9" id="content"> 
         <div id="font2">
-        <h5><br>
+        <h5>
+          <br>
           <font size=5><B>แหล่งท่องเที่ยวสุพรรณบุรี</B></font>
-          </h5><br>
+          <br>
           <h5>
             <B>1.ตลาดสามชุก : Old Sam Chuk Market</B>
           </h5><br>
