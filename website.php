@@ -163,7 +163,7 @@
           <center>
             <h3><font size=5><B>ผลงานนักเรียน</B></font></h3>
             <hr />
-            <font size=4> 
+            <font size=3> 
             <p>รายวิชา WebApplication</p>
             <p>โรงเรียนหล่มสักวิทยาคม</p>
             </font>
