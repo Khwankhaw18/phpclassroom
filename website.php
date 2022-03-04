@@ -38,7 +38,6 @@
         background-color: #F5F5F5;
       }
       #footer {
-        height: 180px;
         padding: 50px;
         background-color: #DCDCDC;
         border-radius: 0 0 15px 15px;
@@ -248,8 +247,8 @@
           </center>
         </div>
       </div>
-      </div>  
-    </div>
+     </div>  
+   </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script>
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
