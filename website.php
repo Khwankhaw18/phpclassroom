@@ -19,7 +19,7 @@
     <style>
       body {
         font-family: "Sarabun";
-        background-color: #ffffff;
+        background-color: #fdf2e7;
       }
       #container {
         box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -82,7 +82,8 @@
       }
     </style>
   </head>
-  <body style="background-color:#ffd3b2">
+  
+  <body>
     <!-- คอนเทนเนอร์ -->
     <div class="container">
       <div id="container">
@@ -100,7 +101,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-3" id="sidebar"> 
+        <div class="col-2" id="sidebar"> 
            <!-- ไซด์บาร์ -->
           <ul>
             <li><a href="https://lsw-56411.herokuapp.com/website.php"><div id="font1"><B>หน้าแรก</B></a></li>
@@ -110,7 +111,7 @@
             <li><a href="https://lsw-56411.herokuapp.com/page4.php"><div id="font1"><B>ผู้จัดทำ</B></a></li>
          </ul>
        </div>
-        <div class="col-9" id="content"> 
+        <div class="col-10" id="content"> 
           <!-- คอนเท้นต์ -->
          <div id="font2">
          <h4>
