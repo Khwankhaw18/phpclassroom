@@ -89,7 +89,7 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <h4>
-            <center><font size=5><B>สุพรรรณบุรี</B></font></center>  
+            <br><center><font size=5><B>สุพรรรณบุรี</B></font></center></br>  
          </h4>
           <center><img src="หน้าแรก1.png" class="img-fluid rounded"></center>
           <br>
