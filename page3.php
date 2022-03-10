@@ -89,40 +89,40 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <h4>
-            <font size=5><B>อารหารประจำท้องถิ่น</B></font>
+            <br><center><font size=5><B>อารหารประจำท้องถิ่น</B></font></center></br>
          </h4><br>
           <h5>
-            <B>1.ขนมสาลี่สุพรรณ</B>
+            <center><B>1.ขนมสาลี่สุพรรณ</B></center>
           </h5><br>
         <center><img src="page3.1.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>2.ปลาสลิดดอนกำยาน</B> 
+            <center><B>2.ปลาสลิดดอนกำยาน</B></center> 
           </h5><br>
                <center><img src="page3.2.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>3.น้ำตาลสามชุก</B>
+            <center><B>3.น้ำตาลสามชุก</B></center>
           </h5><br>
                <center><img src="page3.3.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>4.ปลาม้า บางปลาม้า</B>
+            <center><B>4.ปลาม้า บางปลาม้า</B></center>
           </h5><br>
                <center><img src="page3.4.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>5.ปลาร้าสองพี่น้อง</B>
+            <center><B>5.ปลาร้าสองพี่น้อง</B></center>
           </h5><br>
                <center><img src="page3.5.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>6.เห็ดฟางอู่ทอง</B>
+            <center><B>6.เห็ดฟางอู่ทอง</B></center>
           </h5><br>
                <center><img src="page3.6.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>7.แห้วศรีประจันต์</B>
+            <center><B>7.แห้วศรีประจันต์</B></center>
           </h5><br>
                <center><img src="page3.7.png" class="img-fluid rounded"></center>
           <br>
