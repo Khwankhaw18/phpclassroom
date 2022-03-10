@@ -101,7 +101,7 @@
           </h5>
           <h5>
             <br><center><B>2.อ่างเก็บน้ำหุบเขาวง (Hub Kao Wong Reservoir)</B></center></br>
-          </h5><br>
+          </h5>
               <center><img src="page1.2.png" class="img-fluid rounded"></center>
           <br>
           <h5>
@@ -109,7 +109,7 @@
             </h5>
           <h5>
             <br><center><B>3.พิพิธภัณฑ์ลูกหลานพันธุ์มังกร (Dragon Descendants Museum)</B></center></br>
-            </h5><br>
+            </h5>
               <center><img src="page1.3.png" class="img-fluid rounded"></center>
           <br>
           <h5>
@@ -117,7 +117,7 @@
           </h5>
           <h5>
             <br><center><B>4.หมู่บ้านอนุรักษ์ควายไทย (Buffalo Villages)</B></center></br>
-          </h5><br>
+          </h5>
               <center><img src="page1.4.png" class="img-fluid rounded"></center>
           <br>
           <h5>
@@ -125,7 +125,7 @@
           </h5>
           <h5>
             <br><center><B>5.บึงฉวากเฉลิมพระเกียรติ ( Bueng Chawak)</B></center></br>
-          </h5><br>
+          </h5>
               <center><img src="page1.5.png" class="img-fluid rounded"></center>
           <br>
           <h5>
