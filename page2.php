@@ -117,7 +117,7 @@
        </h5>
           <h5>
             <br><center><B>4.ทุ่งทานตะวันสุพรรณบุรี</B></center></br>
-          </h5><br>
+          </h5>
              <center><img src="page2.4.png" class="img-fluid rounded"></center>
           <br>
           <h5>
@@ -125,7 +125,7 @@
         </h5>
           <h5>
             <br><center><B>5.ประเพณีแห่เทียนพรรษาสุพรรณบุรี</B></center></br> 
-          </h5><br>
+          </h5>
         <center><img src="page2.5.png" class="img-fluid rounded"></center>
           <br>
           <h5>
