@@ -89,38 +89,38 @@
         <div class="col-10" id="content">
           <!-- คอนเท้นต์ -->
           <h4>
-            <font size=5><B>ผู้จัดทำ</B></font>
+            <br><center><font size=5><B>ผู้จัดทำ</B></font></center></br>
          </h4><br>
           <h5>
-            <B>1.นายปกป้อง สงวนศิลป์ ม.5/13 เลขที่4</B>
+            <center><B>1.นายปกป้อง สงวนศิลป์ ม.5/13 เลขที่4</B></center>
           </h5><br>
         <center><img src="page4.1.png" class="img-fluid rounded"></center>
           <br>
                <h5>
-            <B>2.นางสาวขวัญข้าว เบ้าสกุล ม.5/13 เลขที่18</B>
+                 <center><B>2.นางสาวขวัญข้าว เบ้าสกุล ม.5/13 เลขที่18</B></center>
           </h5><br>
                <center><img src="page4.2.png" class="img-fluid rounded"></center>
           <br>
          
           <h5>
-            <B>3.นางสาวชิษณุชา กระจ่างกิจใจชุ่ม ม.5/13 เลขที่19</B>
+            <center><B>3.นางสาวชิษณุชา กระจ่างกิจใจชุ่ม ม.5/13 เลขที่19</B></center>
             </h5><br>
                <center><img src="page4.3.png" class="img-fluid rounded"></center>
           <br>
           
           <h5>
-            <B>4.นางสาวธัญวรัตม์ รอดน้อย ม.5/13 เลขที่21</B>
+            <center><B>4.นางสาวธัญวรัตม์ รอดน้อย ม.5/13 เลขที่21</B></center>
           </h5><br>
                <center><img src="page4.4.png" class="img-fluid rounded"></center>
           <br>
          
           <h5>
-            <B>5.นางสาวเหมือนพิมพ์ ยวงคำ ม.5/13 เลขที่26</B>
+            <center><B>5.นางสาวเหมือนพิมพ์ ยวงคำ ม.5/13 เลขที่26</B></center>
           </h5><br>
                <center><img src="page4.5.png" class="img-fluid rounded"></center>
           <br>
           <h5>
-            <B>6.นางสาวญาณิศา อารีสุก ม.5/13 เลขที่29</B>
+            <center><B>6.นางสาวญาณิศา อารีสุก ม.5/13 เลขที่29</B></center>
           </h5><br>
                <center><img src="page4.6.png" class="img-fluid rounded"></center>
           <br>
