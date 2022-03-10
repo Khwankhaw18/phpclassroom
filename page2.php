@@ -109,7 +109,7 @@
           </h5>
           <h5>
             <br><center><B>3.งานอนุสรณ์ดอนเจดีย์</B></center></br>
-            </h5><br>
+            </h5>
               <center><img src="page2.3.png" class="img-fluid rounded"></center>
           <br>
           <h5>
