@@ -98,7 +98,7 @@
             </h5>
            <br></br>
           <h4>
-           <font size=5><B>ที่ตั้งและอาณาเขต</B></font> 
+            <center><font size=5><B>ที่ตั้งและอาณาเขต</B></font></center> 
          </h4>
           <br>
           <h5>
@@ -150,7 +150,7 @@
       </table>
            <br>
           <h5>
-            <font size=5><B>ประชากร</B></font> 
+            <center><font size=5><B>ประชากร</B></font></center> 
           </h5>
           <br>
           <h5>
