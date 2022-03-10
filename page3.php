@@ -90,7 +90,7 @@
           <!-- คอนเท้นต์ -->
           <h4>
             <br><center><font size=5><B>อารหารประจำท้องถิ่น</B></font></center></br>
-         </h4><br>
+         </h4>
           <h5>
             <center><B>1.ขนมสาลี่สุพรรณ</B></center>
           </h5><br>
