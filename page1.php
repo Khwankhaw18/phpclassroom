@@ -26,7 +26,7 @@
       }
       #header {
         height: 240px;
-        background-image: url("https://spbjc.coj.go.th/th/file/get/file/20201008d41d8cd98f00b204e9800998ecf8427e145656.png");
+        background-image: url("https://scontent.fphs1-1.fna.fbcdn.net/v/t1.15752-9/275340428_1125352158230735_244918140109870519_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=OFs6-dFNmJkAX-KJQhJ&_nc_ht=scontent.fphs1-1.fna&oh=03_AVKezBN5KoLLyjGLbK_FYQUOnRbySvzGbYUGf5uSZlER1A&oe=624FF75D");
         background-size:100%;
       }
       #sidebar {
